@@ -968,18 +968,18 @@
   "summary": {
     "previous_page": "Volver a la página anterior",
     "print": "Imprimir",
-    "copy_to_clipboard": "TO BE TRANSLATED - Copy to clipboard",
-    "download_images": "TO BE TRANSLATED - Download images",
+    "copy_to_clipboard": "Copiar al portapapeles",
+    "download_images": "Descargar imágenes",
     "download_csv": "TO BE TRANSLATED - Download a CSV export",
     "csv_action_plan_comment": "TO BE TRANSLATED - Action plan comment",
     "csv_evaluation_comment": "TO BE TRANSLATED - Evaluation comment",
-    "csv_section": "TO BE TRANSLATED - Section",
-    "csv_title_object": "TO BE TRANSLATED - Title",
-    "csv_implement_date": "TO BE TRANSLATED - Estimated implementation date",
-    "csv_people_in_charge": "TO BE TRANSLATED - Person in charge",
-    "csv_file_title": "TO BE TRANSLATED - action-plan",
+    "csv_section": "Sección",
+    "csv_title_object": "Título",
+    "csv_implement_date": "Fecha de implementación estimada",
+    "csv_people_in_charge": "Personal al cargo",
+    "csv_file_title": "Plan de acción",
     "display_filters": {
-      "title": "TO BE TRANSLATED - Filters",
+      "title": "Filtros",
       "main_content": "TO BE TRANSLATED - Display \"PIA information\"",
       "context_content": "TO BE TRANSLATED - Display \"Context\"",
       "principles_content": "TO BE TRANSLATED - Display \"Fundamental principles\"",
@@ -1146,7 +1146,7 @@
           "questions": {
             "1": {
               "title": "Son los fines de tratamiento especificados, explícitos y legítimos?",
-              "short_title": "Los finos",
+              "short_title": "Los fines",
               "placeholder": "Explica por qué los propósitos de tratamiento son específicos, explícitos y legítimos."
             },
             "2": {
@@ -1335,10 +1335,10 @@
           "short_help": "Presente el consejo de la persona a cargo de la protección y de la privacidad de los datos (delegado de la protección de los datos si hay uno). Presente las opiniones los interesados o sus representantes."
         },
         "4": {
-          "title": "TO BE TRANSLATED - Validate the PIA"
+          "title": "Valida la PIA"
         },
         "5": {
-          "title": "TO BE TRANSLATED - Rejected PIA"
+          "title": "PIA Rechazada"
         }
       }
     }
